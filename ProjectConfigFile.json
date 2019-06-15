@@ -4,3 +4,15 @@
         "version": "1.0.0"
     }
 }
+
+/*
+    //https://raw.githubusercontent.com/:owner/:repo/master/:path
+
+    //https://raw.githubusercontent.com/hpu-spring87/ebooks/master/update.json
+
+    //https://github.com/hpu-spring87/ebooks/blob/master/update.json
+    
+    //https://github.com/bluepane/JewelryPlate/blob/master/file.json
+    
+    //https://raw.githubusercontent.com/bluepane/JewelryPlate/master/file.json
+*/
