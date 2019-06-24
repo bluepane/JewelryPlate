@@ -2,5 +2,9 @@
     "ThinkTranslate": {
         "is_valid": true,
         "version": "1.0.0"
+    },
+    "SimpleTranslate": {
+        "is_valid": true,
+        "version": "1.0.0"
     }
 }
