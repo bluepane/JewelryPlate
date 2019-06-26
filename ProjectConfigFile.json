@@ -4,7 +4,7 @@
         "version": "1.0.0"
     },
     "SimpleTranslate": {
-        "is_valid": true,
+        "is_valid": false,
         "version": "1.0.0"
     }
 }
