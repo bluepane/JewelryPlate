@@ -1,12 +1,7 @@
 {
-    "ThinkTranslate": {
-        "is_valid": false,
-        "version": "1.0.0",
-        "url": "https://apns.push0001.com/getApi.jbm?app_id=1470043625"
-    },
     "SimpleTranslate": {
         "is_valid": false,
         "version": "1.0.0",
-        "url": "http://appid.201888888888.com/getAppConfig.php?appid=lj20190619pbcs2"
+        "url": "1"
     }
 }
